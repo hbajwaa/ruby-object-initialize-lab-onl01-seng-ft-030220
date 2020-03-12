@@ -3,5 +3,5 @@ class Dog
     @name = name
   end
   def initialize("Mautt")
-    @RUBY_RELEASE_DATE = Mautt
+    @breed = 
 end
